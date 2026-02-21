@@ -1,0 +1,13 @@
+{
+  "name": "source-scorer",
+  "version": "1.0.0",
+  "description": "Source credibility scorer for web research",
+  "main": "score.cjs",
+  "scripts": {
+    "score": "node score.cjs",
+    "batch": "node score-batch.cjs",
+    "tier": "node domain-tier.cjs"
+  },
+  "private": true,
+  "license": "MIT"
+}

@@ -1,0 +1,30 @@
+{
+  "tier1_patterns": [
+    "docs.", "developer.", "developers.", "api.", "help.", "support.", "learn.",
+    ".gov", ".edu", ".mil",
+    "ietf.org", "w3.org", "whatwg.org", "rfc-editor.org", "ecma-international.org"
+  ],
+  "tier2_exact": [
+    "stripe.com", "github.com", "cloudflare.com", "aws.amazon.com", "nodejs.org",
+    "sqlite.org", "postgresql.org", "redis.io", "mongodb.com", "docker.com",
+    "anthropic.com", "openai.com", "google.com", "microsoft.com", "apple.com",
+    "mozilla.org", "npmjs.com", "pypi.org", "crates.io"
+  ],
+  "tier3_exact": [
+    "techcrunch.com", "arstechnica.com", "wired.com", "theverge.com", "infoq.com",
+    "smashingmagazine.com", "css-tricks.com", "arxiv.org", "acm.org", "ieee.org",
+    "blog.cloudflare.com", "engineering.atspotify.com", "netflixtechblog.com"
+  ],
+  "tier4_exact": [
+    "stackoverflow.com", "stackexchange.com", "news.ycombinator.com",
+    "dev.to", "hashnode.com", "lobste.rs"
+  ],
+  "tier5_exact": [
+    "medium.com", "substack.com", "beehiiv.com", "wordpress.com",
+    "blogspot.com", "tumblr.com"
+  ],
+  "tier6_exact": [
+    "reddit.com", "twitter.com", "x.com", "facebook.com", "quora.com",
+    "pastebin.com", "gist.github.com"
+  ]
+}
